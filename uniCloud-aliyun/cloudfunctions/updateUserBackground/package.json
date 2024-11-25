@@ -1,0 +1,7 @@
+{
+  "name": "updateUserBackgroundImage",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

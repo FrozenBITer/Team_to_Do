@@ -1,0 +1,7 @@
+{
+  "name": "addteam",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

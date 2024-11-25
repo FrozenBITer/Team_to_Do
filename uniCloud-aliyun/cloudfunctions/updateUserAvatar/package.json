@@ -1,0 +1,7 @@
+{
+  "name": "updateUserAvatar",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
